@@ -1,0 +1,19 @@
+.numero{
+    font-family: Verdana, sans-serif, 'Times New Roman', Times, serif;
+background-color: rgb(252, 198, 207);
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 34px;
+}
+
+.numero2{
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(165, 231, 151);
+    font-size: 24px;
+    font-weight: 900;
+}
